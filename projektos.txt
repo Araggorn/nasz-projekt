@@ -1,0 +1,2 @@
+To jest mój pierwszy plik tekstowy stworzony w Ubuntu poprzez Terminal.
+Teraz muszę wcisnąć ctrl+d.
